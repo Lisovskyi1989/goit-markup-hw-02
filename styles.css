@@ -14,3 +14,21 @@ body {
 .link {
   text-decoration: none;
 }
+/* ========= START COMPONENTS ========= */
+.modal-btn {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 187% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+
+  /* color: #ffffff; */
+}
+/* ========== END COMPONENTS ========== */
