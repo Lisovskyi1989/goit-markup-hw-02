@@ -100,6 +100,22 @@ footer {
 .header-contacts:focus {
   color: var(--accent-color);
 }
+.logo-style {
+  font-family: var(--secondary-font-family);
+  font-style: 700;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+
+  color: var(--accent-color);
+}
+.logo-style-header {
+  color: var(--primary-text-color-theme-light);
+}
+.logo-style-footer {
+  color: var(--primary-text-color-theme-dark);
+}
 
 /* ========= END HEADER ========= */
 
