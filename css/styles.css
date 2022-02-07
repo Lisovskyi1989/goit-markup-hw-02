@@ -204,7 +204,7 @@ footer {
 
 /* ========= START PORTFOLIO========= */
 .portfolio-btn {
-  font-family: var(--primary-font-family)
+  font-family: var(--primary-font-family);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
@@ -213,6 +213,7 @@ footer {
   cursor: pointer;
   background: var(--secondary-background-color);
   border-radius: 4px;
+  color: var(--primary-text-color-theme-light);
 }
 
 .portfolio-btn:hover,
